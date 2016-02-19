@@ -10,7 +10,7 @@ tags:
 
 **Retrospect on _Hans Rosling: The best stats you've ever seen_**
 
-![Hans Rosling "Casting" Data](/images/hansrosling.png)
+![Hans Rosling "Casting" Data](/blog/images/hansrosling.png)
 
 I feel really lucky that I had the chance to watch this talk. Before that **I never got** Data Visualization.
 
@@ -19,7 +19,7 @@ Why is every body talking about it or how come people create a new discipline fo
 In this talk, Hans Rosling was like a wizard, whose magic is to manipulate visual elements to convey critical information or trends to his audience. I did't get to it until I saw the pictures that all the lovely flowers grew on the soil with raw data embedded in it. But **data** is Hans Roling's mojo (of course with his knowledge and experience in this field.).
 
 
-![](/images/ExMachinaCast.jpg)
+![](/blog/images/ExMachinaCast.jpg)
 
 
 ### What if you discovered oil before you invented the internal combustion engine?
@@ -30,4 +30,4 @@ Given that analogy, learning Data Visualization is more like learning technologi
 
 At the end, please allow me to use another screenshot from Hans Roslings talk to remind me what we can do, and what we can achieve in the future.
 
-![](/images/hansrosling2.png)
+![](/blog/images/hansrosling2.png)

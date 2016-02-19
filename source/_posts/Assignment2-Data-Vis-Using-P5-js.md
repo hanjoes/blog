@@ -8,8 +8,8 @@ tags:
 - Programming
 ---
 
-[Bar Chart](/assignments/assignment2/barchart.html)
-[Stacked Bar Chart](/assignments/assignment2/stackedbarchart.html)
-[Scatterplot](/assignments/assignment2/scatterplot.html)
-[Line Graph](/assignments/assignment2/linegraph.html)
-[Box Plot](/assignments/assignment2/barchart.html)
+[Bar Chart](/blog/assignments/assignment2/barchart.html)
+[Stacked Bar Chart](/blog/assignments/assignment2/stackedbarchart.html)
+[Scatterplot](/blog/assignments/assignment2/scatterplot.html)
+[Line Graph](/blog/assignments/assignment2/linegraph.html)
+[Box Plot](/blog/assignments/assignment2/barchart.html)

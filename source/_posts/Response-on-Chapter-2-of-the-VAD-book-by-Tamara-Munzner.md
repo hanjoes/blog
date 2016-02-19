@@ -7,7 +7,7 @@ tags:
 - Assignments
 - Reviews
 ---
-![This Picture Stands for Chapter 2](/images/ch2maindiagram.png)
+![This Picture Stands for Chapter 2](/blog/images/ch2maindiagram.png)
 
 ## Something about Chapter 2
 
