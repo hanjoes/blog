@@ -18,23 +18,23 @@ Implemented features are as following:
 
 # Links
 
-[See Bar Chart]()
+[See Bar Chart](http://hanjoes.github.io/vis/assignments/assignment2/barchart.html)
 
 ![Bar Chart](/blog/images/barchart.png)
 
-[See Stacked Bar Chart]()
+[See Stacked Bar Chart](http://hanjoes.github.io/vis/assignments/assignment2/stackedbarchart.html)
 
 ![Stacked Bar Chart](/blog/images/stackedbarchart.png)
 
-[See Scatterplot]()
+[See Scatterplot](http://hanjoes.github.io/vis/assignments/assignment2/scatterplot.html)
 
 ![Scatterplot](/blog/images/scatterplot.png)
 
-[See Line Graph]()
+[See Line Graph](http://hanjoes.github.io/vis/assignments/assignment2/linegraph.html)
 
 ![Line Graph](/blog/images/linegraph.png)
 
-[See Box Plot]()
+[See Box Plot](http://hanjoes.github.io/vis/assignments/assignment2/boxplot.html)
 
 ![Box Plot](/blog/images/boxplot.png)
 
