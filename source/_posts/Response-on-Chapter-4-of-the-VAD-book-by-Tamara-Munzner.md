@@ -1,4 +1,4 @@
-title: Response on Chapter 4 of the VAD book by Tamara Munzner
+title: Response on Chapter 4 of the VAD Book by Tamara Munzner
 date: 2016-02-10 21:02:29
 categories:
 - Computer Science
