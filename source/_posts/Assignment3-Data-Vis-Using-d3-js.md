@@ -1,6 +1,11 @@
 title: Assignment3 Data Vis Using d3.js
 date: 2016-03-06 17:52:22
+categories:
+- Computer Science
+- Data Visualization
 tags:
+- Assignments
+- Programming
 ---
 
 # README
