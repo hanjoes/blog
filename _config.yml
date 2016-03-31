@@ -3,7 +3,7 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Genesis
+title: Chatbox
 subtitle:
 description:
 author: Hanzhou Shi
@@ -75,4 +75,3 @@ deploy:
   repo: 'git@github.com:hanjoes/blog.git'
   branch: 'gh-pages'
   message: 'Blog update.'
-
