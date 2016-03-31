@@ -6,7 +6,7 @@ categories:
 tags:
 - Assignments
 ---
-![](/blog/images/data-vis-gb-header.jpg)
+![](/images/data-vis-gb-header.jpg)
 
 Good visualization can let people communicate much faster and easier, yet there are still some pieces of works that slows people down, or even worse, it could communicate the wrong information.
 
@@ -20,12 +20,12 @@ I think this graph is a **good** data visualization for two reasons:
 
 2. This data visualization uses the raw data in the "right way". Which means it gives the raw data meaning that can let people find the underlying pattern. For example, if you are given a HUGE list of race-address information in text form, you will never figure out that black folks are distributed in the south and east parts of the country, but with this graph, you will know it at the first glance.
 
-![The Racial Dot Map: One Dot Per Person for the Entire U.S.](/blog/images/census_dot_map.png)
+![The Racial Dot Map: One Dot Per Person for the Entire U.S.](/images/census_dot_map.png)
 
 ### Bad Example
 A bad visualization is usually some graph that communicates the wrong idea, or express the data in a wrong way. This one reminds us that the visual elements of a visualization is not trivial since it could plant the wrong information into the reader's mind.
 
-![](/blog/images/wtf_data_viz.jpg)
+![](/images/wtf_data_viz.jpg)
 
 There are at least two problems with this graph.
 

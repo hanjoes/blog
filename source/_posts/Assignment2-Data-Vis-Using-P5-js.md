@@ -20,26 +20,26 @@ Implemented features are as following:
 
 [See Bar Chart](http://hanjoes.github.io/vis/assignments/assignment2/barchart.html)
 
-![Bar Chart](/blog/images/barchart.png)
+![Bar Chart](/images/barchart.png)
 
 [See Stacked Bar Chart](http://hanjoes.github.io/vis/assignments/assignment2/stackedbarchart.html)
 
-![Stacked Bar Chart](/blog/images/stackedbarchart.png)
+![Stacked Bar Chart](/images/stackedbarchart.png)
 
 [See Scatterplot](http://hanjoes.github.io/vis/assignments/assignment2/scatterplot.html)
 
-![Scatterplot](/blog/images/scatterplot.png)
+![Scatterplot](/images/scatterplot.png)
 
 [See Line Graph](http://hanjoes.github.io/vis/assignments/assignment2/linegraph.html)
 
-![Line Graph](/blog/images/linegraph.png)
+![Line Graph](/images/linegraph.png)
 
 [See Box Plot](http://hanjoes.github.io/vis/assignments/assignment2/boxplot.html)
 
-![Box Plot](/blog/images/boxplot.png)
+![Box Plot](/images/boxplot.png)
 
 # Note
 
 Below is a faked dataset to show outliers. The faked test data can also be acquired [here](http://http://hanjoes.github.io/vis/assignments/assignment2/presidents_fake.csv).
 
-![Fake Data to Show Outliers](/blog/images/fake.png)
+![Fake Data to Show Outliers](/images/fake.png)

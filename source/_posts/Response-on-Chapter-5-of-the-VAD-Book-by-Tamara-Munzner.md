@@ -16,9 +16,9 @@ tags:
 
 **A** proper way to categorize marks is the number of dimensions, shown in the picture below.
 
-![Marks](/blog/images/ch5marks.png)
+![Marks](/images/ch5marks.png)
 
-![Channels](/blog/images/ch5channels.png)
+![Channels](/images/ch5channels.png)
 
 **V**ersatile as the visual channel, it is basically the organization of marks in different forms. And usually we use the composite of different visual channels.
 
@@ -32,4 +32,4 @@ tags:
 
 **K**nock knock, I will end this blog with one of my favorite picture to emphasize that human perceptions can sometimes lead to illusions;)
 
-![Illusion](/blog/images/ch5illusion.png)
+![Illusion](/images/ch5illusion.png)
