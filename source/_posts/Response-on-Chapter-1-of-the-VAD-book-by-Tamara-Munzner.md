@@ -8,7 +8,7 @@ tags:
 - Reviews
 ---
 
-![Cover of Visualization Analysis & Design by Tamara Munzner](/images/VADfront.png)
+![Cover of Visualization Analysis & Design by Tamara Munzner](images/VADfront.png)
 
 This is a required response on the assigned reading of in CS686.
 After reading the preface I realized that [this book](http://www.amazon.com/Visualization-Analysis-Design-AK-Peters/dp/1466508914/ref=sr_1_1?ie=UTF8&qid=1454378728&sr=8-1&keywords=Tamara+Munzer) is really worth reading, at least for someone like me that doesn't have any former experience in Data Visualization.

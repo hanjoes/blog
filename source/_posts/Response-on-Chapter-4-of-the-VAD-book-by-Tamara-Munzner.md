@@ -8,7 +8,7 @@ tags:
 - Reviews
 ---
 
-![The Four-level Framework](/images/fourlevelsofvalidation.png)
+![The Four-level Framework](images/fourlevelsofvalidation.png)
 
 In this chapter the author talked about the "Four-Level Validation Framework". To be more specific they are "the domain situation", "visual encoding interaction idiom", "data/task abstraction" and "algorithm".
 

@@ -22,15 +22,15 @@ It has several features:
 
 ## Screenshots
 
-![A Simple Bar Chart](/images/simplebar.png)
+![A Simple Bar Chart](images/simplebar.png)
 
-![File Selection](/images/simplef.png)
+![File Selection](images/simplef.png)
 
-![A Simple Scatterplot](/images/simplesp.png)
+![A Simple Scatterplot](images/simplesp.png)
 
-![A Simple Scatterplot Matrix](/images/simplespm.png)
+![A Simple Scatterplot Matrix](images/simplespm.png)
 
-![Bigger Dataset for Scatterplot Matrix with Filtering](/images/simplefspm.png)
+![Bigger Dataset for Scatterplot Matrix with Filtering](images/simplefspm.png)
 
 ## Insights on the Car Data
 
@@ -38,21 +38,21 @@ By looking at the last picture in the screenshots section above, it certainly re
 
 ### Insight 1
 
-![X: Year, Y: MPG](/images/yearmpg.png)
+![X: Year, Y: MPG](images/yearmpg.png)
 
-![Slider](/images/slider.png)
+![Slider](images/slider.png)
 
 The little screenshot above combined with the minimum value for the slider tells us that the earliest year of the whole dataset is 1969. (Maybe domestic car is not widely manufactured before that time?)
 
 ### Insight 2
 
-![X: Year, Y: MPG Filtered](/images/yearmpgfilter.png)
+![X: Year, Y: MPG Filtered](images/yearmpgfilter.png)
 
 In this screenshot we can see a point is left alone. And it becomes very clear after filtering that the highest MPG (miles per gallon) we can get in 1971 is 35. (And it's way higher than peers!)
 
 ### Insight 3
 
-![X: Horsepower, Y: MPG](/images/horsepowermpg.png)
+![X: Horsepower, Y: MPG](images/horsepowermpg.png)
 
 From this screenshot I know even without very sufficient common knowledge about cars that: the higher the horsepower, the lower the mpg we get from a car.
 

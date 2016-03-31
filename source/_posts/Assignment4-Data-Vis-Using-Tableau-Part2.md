@@ -13,14 +13,14 @@ tags:
 I accidentally found this data from [the Rdatasets](https://vincentarelbundock.github.io/Rdatasets/datasets.html), and it reminds me of Hans Roslin's TED talk. So I decided to play around with it. (This data differs from Hans Roslin's data in that it only captures the year 1970.)
 
 ### Correlation between infant mortality and income of a country.
-![Mortality-Income](/images/infantmortality1.png)
+![Mortality-Income](images/infantmortality1.png)
 
 As we can see from the screenshot, countries that are very poor have higher infant mortality than other countries are reasonably wealthy. But wait, what are the three points that are extremely apart from their peers (with similar income)?
 
 So far I've only used drag-and-drop for dimensions and measures, and turns out Tableau knows what I want to do next, it allows user to drag and drop attributes in interest to "tooltip". So I did it. And immediately it gives me a tooltip not only showing the dimension data, but also the extra attribute I just drag-and-dropped. And we can easily know that the three countries are (from left to right), Afghanistan, Saudi.Arabia and Libya and all of them are oil exporting countries! I'm not going to talk about world politics but the correlation to oil may reveal something.
 
 ### Infant mortality and income according to regions.
-![Mortality-Region](/images/infantmortality2.png)
+![Mortality-Region](images/infantmortality2.png)
 
 By comparing infant mortality and income according to regions we easily know that Europe is the wealthiest and has lowest infant mortality, while Africa is in the reversed case. But Asia is not as wealthy as America but has lower infant mortality. Presumably the reason is that although Asia is not as economically strong as America countries, but by that time most countries in Asia is in a more stable state than their peers in some of the American countries. But to verify this point we need some other data support.
 
@@ -29,7 +29,7 @@ By comparing infant mortality and income according to regions we easily know tha
 This data demonstrates the working hours of the wife in United States families. It is more interesting if you have a wife :P
 
 ### Multiple factors that affecting wives' working hours.
-![Multiple-Hours](/images/wife1.png)
+![Multiple-Hours](images/wife1.png)
 
 In this chart, I deliberately chose three different factors that displays interesting pattern to the wives' average working hours.
 
